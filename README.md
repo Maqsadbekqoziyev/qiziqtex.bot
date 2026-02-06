@@ -1,0 +1,2 @@
+# qiziqtex.bot
+bot
